@@ -1,6 +1,7 @@
 /* Ränkeschmied!!!!
 /* Ränkeschmied erhöht den Spezial-Angriff um zwei Stufen. 
 /* test commmit
+/* hacktober
 /* eslint quote-props: ["error", "consistent"]*/
 /**
  * This sample demonstrates a simple skill built with the Amazon Alexa Skills
